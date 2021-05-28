@@ -1,0 +1,270 @@
+{
+  "keys": "F:\\weather\\service\\config\\config.default.js",
+  "security": {
+    "csrf": {
+      "enable": "F:\\weather\\service\\config\\config.default.js",
+      "ignoreJSON": "F:\\weather\\service\\config\\config.default.js",
+      "type": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "F:\\weather\\service\\config\\config.default.js",
+    "allowMethods": "F:\\weather\\service\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "F:\\weather\\service\\config\\config.default.js",
+    "fileSize": "F:\\weather\\service\\config\\config.default.js",
+    "autoFields": "F:\\weather\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "F:\\weather\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "F:\\weather\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "F:\\weather\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "F:\\weather\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "F:\\weather\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "F:\\weather\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "F:\\weather\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "F:\\weather\\service\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "F:\\weather\\service\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "F:\\weather\\service\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "F:\\weather\\service\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "F:\\weather\\service\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "F:\\weather\\service\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "F:\\weather\\service\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "F:\\weather\\service\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "F:\\weather\\service\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "F:\\weather\\service\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "F:\\weather\\service\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "F:\\weather\\service\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "F:\\weather\\service\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "F:\\weather\\service\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "F:\\weather\\service\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "F:\\weather\\service\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "F:\\weather\\service\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "F:\\weather\\service\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "F:\\weather\\service\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "F:\\weather\\service\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "F:\\weather\\service\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "F:\\weather\\service\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "F:\\weather\\service\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "F:\\weather\\service\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "F:\\weather\\service\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "F:\\weather\\service\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "F:\\weather\\service\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "F:\\weather\\service\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "F:\\weather\\service\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "F:\\weather\\service\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "F:\\weather\\service\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "F:\\weather\\service\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "F:\\weather\\service\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "F:\\weather\\service\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "F:\\weather\\service\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "F:\\weather\\service\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "F:\\weather\\service\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "F:\\weather\\service\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "F:\\weather\\service\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "F:\\weather\\service\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "F:\\weather\\service\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "F:\\weather\\service\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "F:\\weather\\service\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "F:\\weather\\service\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "F:\\weather\\service\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "F:\\weather\\service\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "F:\\weather\\service\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "F:\\weather\\service\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "F:\\weather\\service\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+  "name": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "version": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "description": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "main": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "test": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+      "dev": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "license": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "strict": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+      "depth": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "env": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "level": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "F:\\weather\\service\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "logging": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+      "port": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "F:\\weather\\service\\node_modules\\egg\\config\\config.default.js"
+}

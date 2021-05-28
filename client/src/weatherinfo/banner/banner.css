@@ -1,0 +1,198 @@
+.banner {
+    background: url(https://h5tq.moji.com/tianqi/assets/images/bg/dress_bg.jpg) 0% 0% / 100% 100% no-repeat;
+    height: 662px;
+}
+
+.center {
+    width: 1000px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.crumb_box {
+    margin: 40px 0 0 0;
+    width: 1000px;
+    position: absolute;
+}
+
+.crumb a {
+    float: left;
+    height: 26px;
+    line-height: 26px;
+    text-align: center;
+    list-style: none;
+    color: #fff!important;
+}
+
+.crumb i {
+    display: inline-block;
+    margin: 0 10px;
+    height: 26px;
+    width: 10px;
+    background: url(https://h5tq.moji.com/tianqi/assets/images/icon/g_title_a.png) right center no-repeat;
+}
+
+.crumb a {
+    padding: 0 10px;
+    border-radius: 5px;
+    border: 1px solid rgba(255, 255, 255, .2)!important;
+}
+
+.ant-breadcrumb>span .lastcity {
+    color: white!important;
+    border: 1px solid rgba(255, 255, 255, 1)!important;
+}
+
+.ant-breadcrumb .weizhi-i {
+    width: 10px;
+    display: flex;
+    border: 1px rgba(255, 255, 255, 0)!important;
+    justify-content: center;
+    text-align: center;
+}
+
+.ant-breadcrumb .weizhi-i i {
+    margin: 0;
+}
+
+.crumb_box .myselectbtn {
+    margin-left: 20px;
+    bottom: 2px;
+}
+
+.crumb_box .myselectbtn button {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.quyulist {
+    background-color: rgba(255, 255, 255, 0);
+    height: 200px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+::-webkit-scrollbar {
+    display: none;
+    /* Chrome Safari */
+}
+
+.aqi_city {
+    position: absolute;
+    right: 0;
+    top: 35px;
+    text-align: right;
+    font-size: 20px;
+    color: #fff;
+}
+
+.aqi_city i,
+.aqi_city em,
+.aqi_city span {
+    display: block;
+    margin: 0 0 20px 0;
+    font-style: normal;
+}
+
+.aqi_info {
+    color: #fff;
+    text-align: center;
+    font-family: "微软雅黑";
+    position: absolute;
+    width: 1000px;
+    top: 60px;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: "";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: "";
+    display: table;
+}
+
+.aqi_info_bg {
+    width: 300px;
+    height: 300px;
+    margin: 60px auto 0 auto;
+    padding: 35px;
+    border-radius: 185px;
+    background: rgba(0, 0, 0, .15);
+    box-sizing: content-box;
+}
+
+.aqi_info .aqi_info_detail {
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    background: rgba(0, 0, 0, .1);
+}
+
+.aqi_info .aqi_info_detail em {
+    display: block;
+    padding: 60px 0 30px 0;
+    height: 193.6px;
+    font-size: 60px;
+    font-style: normal;
+}
+
+.aqi_info .aqi_info_detail span {
+    font-size: 54px;
+    height: 84.8px;
+}
+
+.aqi_info .aqi_info_tips dt {
+    margin: 40px 0 20px 0;
+    font-size: 25px;
+}
+
+.aqi_info .aqi_info_tips dd {
+    font-size: 22px;
+    margin: 0;
+}
+
+.aqi_info dl {
+    margin: 0;
+}
+
+.ant-message-notice-content {
+    color: black!important;
+}
+
+.myselectbtn {
+    border-radius: 5%;
+}
+
+@media (max-width: 376px) {
+    .aqi_info {
+        color: #fff;
+        text-align: center;
+        font-family: "微软雅黑";
+        position: absolute;
+        width: 375px;
+        top: 60px;
+    }
+}

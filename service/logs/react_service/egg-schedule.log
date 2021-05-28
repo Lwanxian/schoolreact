@@ -1,0 +1,18 @@
+2021-05-20 17:19:19,290 INFO 19400 [egg-schedule]: register schedule F:\weather\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-05-20 17:19:19,290 INFO 19400 [egg-schedule]: register schedule F:\weather\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-05-20 17:19:19,290 INFO 19400 [egg-schedule]: register schedule F:\weather\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-05-20 17:19:20,014 INFO 19148 [Timer] F:\weather\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 40239989ms at 2021-05-21 04:30:00.003
+2021-05-20 17:19:20,014 INFO 19148 [Timer] F:\weather\service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 24039986ms at 2021-05-21 00:00:00.000
+2021-05-20 17:19:20,014 INFO 19148 [Timer] F:\weather\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 24040986ms at 2021-05-21 00:00:01.000
+2021-05-28 11:45:21,954 INFO 1100 [egg-schedule]: register schedule F:\weather\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-05-28 11:45:21,954 INFO 1100 [egg-schedule]: register schedule F:\weather\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-05-28 11:45:21,954 INFO 1100 [egg-schedule]: register schedule F:\weather\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-05-28 11:45:22,764 INFO 7336 [egg-schedule]: register schedule F:\weather\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-05-28 11:45:22,764 INFO 7336 [egg-schedule]: register schedule F:\weather\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-05-28 11:45:22,764 INFO 7336 [egg-schedule]: register schedule F:\weather\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-05-28 11:45:23,572 INFO 12052 [Timer] F:\weather\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 60276454ms at 2021-05-29 04:30:00.026
+2021-05-28 11:45:23,573 INFO 12052 [Timer] F:\weather\service\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 44076427ms at 2021-05-29 00:00:00.000
+2021-05-28 11:45:23,573 INFO 12052 [Timer] F:\weather\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 44077427ms at 2021-05-29 00:00:01.000
+2021-05-28 11:45:24,205 INFO 9056 [egg-schedule]: register schedule F:\weather\service\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-05-28 11:45:24,205 INFO 9056 [egg-schedule]: register schedule F:\weather\service\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-05-28 11:45:24,205 INFO 9056 [egg-schedule]: register schedule F:\weather\service\node_modules\egg-logrotator\app\schedule\rotate_by_file.js

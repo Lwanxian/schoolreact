@@ -1,0 +1,132 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+
+.you-nav {
+    font-size: 30px;
+    color: white;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    display: flex;
+    justify-content: space-between;
+    background-color: none !important;
+    margin-top: 20px;
+}
+
+.big-box {
+    display: inline-block;
+}
+
+
+
+.big-box {
+    width: 1860px;
+    height: 969px;
+}
+
+.you-nav .nav-son1 {
+    float: left;
+    margin-left: 20px;
+}
+
+.you-nav .nav-son2 {
+    display: flex;
+    flex-wrap: nowrap;
+    font-size: 16px;
+    float: right;
+    justify-content: space-evenly;
+}
+
+.nav-city {
+    width: 240px;
+    height: 40px;
+    display: flex;
+    flex-wrap: nowrap;
+    border: 1px solid white;
+    border-radius: 28px;
+    margin-right: 20px;
+    text-align: center;
+    line-height: 40px;
+    justify-content: space-evenly;
+    cursor: pointer;
+}
+
+.city-cion {
+    margin: 0 5px;
+}
+
+.more-cion {
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    color: rgb(223, 223, 224);
+    border: 1px solid rgb(223, 223, 224);
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.nav-weather1 {
+    display: none;
+}
+
+.nav-weather2 {
+    width: 460px;
+    position: absolute;
+    top: 70px;
+    right: 30px;
+}
+
+.nav-weather-header {
+    display: flex;
+    background-color: rgba(202, 202, 202, 0.705);
+
+    font-size: 20px;
+    justify-content: space-between;
+}
+
+.weather-list {
+    background-color: rgba(202, 202, 202, 0.705);
+    text-align: center;
+}
+.index-hover1{
+    position: absolute;
+    top: 70px;
+    opacity: 0.5;
+    right: 100px;
+}
+.leftmore{
+    width: 130px;
+    height: 100%;
+    background-color: black;
+    position: absolute;
+    top: 0;
+    opacity: 0.7;
+    right: 0;
+    text-align: center;
+}
+.icon-title{
+    position: absolute;
+    top: 40%;
+    left:40%;
+    display: flex;
+    flex-direction: column;
+    color: black;
+}
+.tianqilist{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    border-right:1px dashed gray ;
+}
+
+.tianqilist div{
+    color: white;
+    margin-top: 20px;
+}

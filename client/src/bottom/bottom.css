@@ -1,0 +1,15 @@
+.youindex_dibu{
+    width: 700px;
+    margin: 0 auto;
+}
+.youindex_dibu  a{
+    cursor: pointer;
+    color: black;
+    font-size: 20px;
+}
+.youindex_dibu div{
+    color: black;
+}
+.youindex_dibu span{
+    color: black;
+}

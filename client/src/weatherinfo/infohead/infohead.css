@@ -1,0 +1,25 @@
+.infohead {
+    height: 60px;
+    margin: 0 auto;
+    background-color: #000000;
+    width: 100%;
+    position: relative;
+}
+
+.infohead-nav {
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.infohead-nav a {
+    float: left;
+    color: white!important;
+    margin-left: 35px;
+    height: 26.4px;
+    padding: 0px 6px;
+}
+
+.infohead-nav a:hover {
+    border-bottom: 1px solid rgba(255, 255, 255, 1);
+}

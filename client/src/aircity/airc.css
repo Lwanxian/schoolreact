@@ -1,0 +1,86 @@
+.myaircontent {
+    width: 100%;
+    background-image: url(../img/weatherbg1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.dislocation {
+    width: 1000px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.dislocation a {
+    font-size: 20px;
+    color: black !important;
+}
+
+.disquality {
+    height: 800px;
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.airindex {
+    font-size: 80px;
+    color: black;
+    font-family: 'Algerian';
+}
+
+.airPm {
+    display: flex;
+}
+
+.airpm {
+    width: 80px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 3%;
+    background-color: rgba(151, 151, 151, 0.426);
+}
+
+.airtrend {
+    width: 1000px;
+    height: 500px;
+    background-color: rgba(233, 233, 233, 0.768);
+    margin: 0 auto;
+}
+
+.air_foot {
+    text-align: center;
+    background-color: #8CB3E2;
+}
+
+.myaircontent {
+    color: black !important;
+}
+
+.provience {
+    display: inline-block;
+    font-size: 25px;
+    height: 50px;
+    border: rgb(177, 177, 177) 1px solid;
+    margin: 40px;
+    padding-left: 8px;
+    padding-right: 8px;
+    line-height: 40px;
+    border-radius: 4px;
+}
+
+.ctitle {
+    font-family: '幼圆';
+    margin-left: 10px;
+}
+
+.cp {
+    margin: auto;
+    width: 1500px;
+}
